@@ -1,2 +1,1 @@
-# MedicalSupplySystem
-Java project
+# INFO5100_AED_FinalProject

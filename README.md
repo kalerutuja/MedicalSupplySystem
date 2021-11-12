@@ -1,0 +1,2 @@
+# MedicalSupplySystem
+Java project
